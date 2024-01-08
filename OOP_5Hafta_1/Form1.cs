@@ -133,6 +133,7 @@ namespace OOP_5Hafta_1
             //yukarıda yapılan işlemleri çalıştırabilmek adına, komut1 nesnesinin executenonquery metodunu kullanıyoruz.
             komut1.ExecuteNonQuery();
             //Programı çalıştırıp geriye değer döndürdükten sonra yine baglan nesnesinin close metodu ile bağlantıyı kapatıyoruz.
+            baglan.Close();
             //Textboxların üzerindeki yazıların da görünmemesi için de textbox nesnesinin clear metodunu kullandık.
             textBox4.Clear();
             textBox5.Clear();
