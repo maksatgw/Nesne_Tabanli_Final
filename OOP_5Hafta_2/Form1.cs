@@ -26,12 +26,6 @@ namespace OOP_5Hafta_2
         BindingSource bs1 = new BindingSource();
         BindingSource bs2 = new BindingSource();
 
-
-
-
-
-
-
         //Veri tabanında listeleme işlemi yapmak için aşağıdaki şekilde bir yol izliyoruz.
         void Listele1()
         {
