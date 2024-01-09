@@ -64,6 +64,7 @@ namespace OOP_6Hafta_1
             //Datagridview kullanmıyoruz, datagrid kullanıyoruz.
             dataGrid1.DataSource = ds;
 
+            
             baglanti.Close();
 
         }        
