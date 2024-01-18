@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary4", "OOP_11Haft
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometriHesapla", "OOP_11Hafta_1\GeometriHesapla\GeometriHesapla.csproj", "{FF199064-D606-4B30-9918-01BEB4A20293}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OOP_12Hafta_1_xml", "OOP_12Hafta_1_xml", "{06381A3E-45EC-4D34-BC2F-9EC1AD5D6682}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML_Kullanim", "OOP_12Hafta_1_xml\XML_Kullanim\XML_Kullanim.csproj", "{04C8559C-CE02-41DD-BE0E-BF32AC33383C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +129,10 @@ Global
 		{FF199064-D606-4B30-9918-01BEB4A20293}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF199064-D606-4B30-9918-01BEB4A20293}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF199064-D606-4B30-9918-01BEB4A20293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04C8559C-CE02-41DD-BE0E-BF32AC33383C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C8559C-CE02-41DD-BE0E-BF32AC33383C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C8559C-CE02-41DD-BE0E-BF32AC33383C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C8559C-CE02-41DD-BE0E-BF32AC33383C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -138,6 +146,7 @@ Global
 		{F15AC4D1-296A-470C-B845-D6AED88711B0} = {3C05BA5C-68AF-44BD-993C-E6AAD87938AB}
 		{512133C9-BEFB-4CFC-ABC9-03458210A308} = {8E64E3BA-65A1-4FB0-A059-33BA88FD1F95}
 		{FF199064-D606-4B30-9918-01BEB4A20293} = {8E64E3BA-65A1-4FB0-A059-33BA88FD1F95}
+		{04C8559C-CE02-41DD-BE0E-BF32AC33383C} = {06381A3E-45EC-4D34-BC2F-9EC1AD5D6682}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4961307-3341-42BE-B4ED-7D08349CD509}
